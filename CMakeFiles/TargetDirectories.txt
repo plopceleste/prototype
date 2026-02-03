@@ -1,3 +1,0 @@
-/storage/emulated/0/bzbsusb/my-project-3/CMakeFiles/rebuild_cache.dir
-/storage/emulated/0/bzbsusb/my-project-3/CMakeFiles/edit_cache.dir
-/storage/emulated/0/bzbsusb/my-project-3/CMakeFiles/Main.dir
