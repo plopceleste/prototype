@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/storage/emulated/0/bzbsusb/my-project-3",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/bzbsusb/my-project-3/include -I/storage/emulated/0/bzbsusb/my-project-3/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Main.dir/src/main.cpp.o -c /storage/emulated/0/bzbsusb/my-project-3/src/main.cpp",
+  "file": "/storage/emulated/0/bzbsusb/my-project-3/src/main.cpp"
+}
+]
